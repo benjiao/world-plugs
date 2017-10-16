@@ -1,6 +1,6 @@
 # Scrape Data - IEC World Plugs
 
-In this notebook, we build a list of plug types by country based on the [International
+This is a comprehensive list of electrical plugs used by countries around the world based on the [International
 Electrotechnical
 Commission's website](http://www.iec.ch/worldplugs/list_bylocation.htm).
 
