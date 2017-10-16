@@ -4,7 +4,7 @@ In this notebook, we build a list of plug types by country based on the [Interna
 Electrotechnical
 Commission's website](http://www.iec.ch/worldplugs/list_bylocation.htm).
 
-I thought this would be a fun DataSet to use along with Geospatial data so I made sure to incude ISO Country Codes for easy mapping later on. This repository however, will only be dedicated to building a useable list of plug types.
+I thought this would be a fun data set to use along with Geospatial data so I made sure to incude ISO Country Codes for easy mapping later on. This repository however, will only be dedicated to building a useable list of plug types.
 
 The [worldstandards.eu](http://www.worldstandards.eu/electricity/plugs-and-sockets/) has some good pictures of these plug and socket types.
 
